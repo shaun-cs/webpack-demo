@@ -3,5 +3,6 @@ node_modules
 
 dist/bundle.js
 dist/*.png
+dist/*.woff
 
 .DS_Store
