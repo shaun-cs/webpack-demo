@@ -1,7 +1,7 @@
 node_modules
 .idea
 
-dist/bundle.js
+dist/*.bundle.js
 dist/*.png
 dist/*.woff
 
